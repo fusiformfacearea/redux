@@ -1,0 +1,8 @@
+1343765432
+Application	C:/Sites/redux/config/application.rb	  class Application 
+ApplicationController	C:/Sites/redux/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/redux/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/redux/test/performance/browsing_test.rb	class BrowsingTest 
+Redux	C:/Sites/redux/config/application.rb	module Redux
+TestCase	C:/Sites/redux/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	C:/Sites/redux/test/performance/browsing_test.rb	  def test_homepage
